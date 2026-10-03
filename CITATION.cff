@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset or code, please cite it as below, and cite the
+  associated manuscript when published.
+title: >-
+  Termite image dataset and MobileNetV2-CAB-TL2 training code for fine-grained
+  termite identification
+authors:
+  - family-names: Huang
+    given-names: Hao
+    affiliation: College of Mathematics and Computer Science, Zhejiang A&F University
+  - family-names: Wang
+    given-names: Hangjun
+    affiliation: School of Electronic Information Engineering, Huzhou College
+    email: whj@zafu.edu.cn
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22710889"
+    description: Version DOI of this release (concept DOI: 10.5281/zenodo.22710888)
+repository-code: "https://github.com/hangjunw/MobileNetV2-CAB-TL2-Termite-Identification"
+type: dataset
+keywords:
+  - termite identification
+  - fine-grained image classification
+  - MobileNetV2
+  - shallow channel attention
+  - transfer learning
+  - lightweight deep learning
+  - precision pest management
+license:
+  - MIT
+  - CC-BY-4.0
+version: V1.1.0
+date-released: "2026-09-24"

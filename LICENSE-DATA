@@ -1,0 +1,37 @@
+# Dataset Licence — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The termite image dataset contained in this release (preview images in
+`sample_data/`, the reproduction-resolution package `TermiteData-256px-V1.1.0.zip`
+distributed via GitHub Release, and the full-resolution master copy archived on
+Zenodo) is licensed under the Creative Commons Attribution 4.0 International
+License.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format for
+  any purpose, even commercially.
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  even commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+- **No additional restrictions** — You may not apply legal terms or
+  technological measures that legally restrict others from doing anything the
+  license permits.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Required attribution line
+
+Huang, H., & Wang, H. (2026). Termite image dataset and MobileNetV2-CAB-TL2
+training code for fine-grained termite identification (Version V1.1.0)
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.22710889
+
+## Scope note
+
+This licence covers the **image data only**. The source code in this
+repository is licensed separately under the MIT Licence (see `LICENSE`).
