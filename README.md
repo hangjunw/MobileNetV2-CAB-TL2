@@ -95,7 +95,7 @@ Training configuration (manuscript §2.3.3): batch size 32, ≤ 80 epochs, AdamW
 
 ## Data and code availability
 
-The dataset and source code supporting the findings of this study are publicly available at https://github.com/hangjunw/MobileNetV2-CAB-TL2-Termite-Identification. The reproduction-resolution dataset and the trained weights ship with GitHub Release V1.1.0; the full-resolution master copy is archived on Zenodo.
+The dataset and source code supporting the findings of this study are publicly available at https://github.com/hangjunw/MobileNetV2-CAB-TL2. The reproduction-resolution dataset and the trained weights ship with GitHub Release V1.1.0; the full-resolution master copy is archived on Zenodo.
 
 ## Citation
 
@@ -120,11 +120,3 @@ GitHub's "Cite this repository" button uses [CITATION.cff](CITATION.cff).
 
 - **Code** — MIT, see [LICENSE](LICENSE)
 - **Dataset** — Creative Commons Attribution 4.0 International, see [LICENSE-DATA](LICENSE-DATA)
-
-## Funding
-
-Zhejiang Provincial Natural Science Foundation of China (Grant No. LY23C140004).
-
-## Acknowledgements
-
-We thank Yongqiang Lu (Huzhou Termite Control Research Institute Co., Ltd.) for termite species and caste identification.
